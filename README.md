@@ -34,10 +34,10 @@ No Python required — just download the latest release from here:
 
 ## 📂 Where files are saved
 When you save an ASCII art creation, it’s stored in:
-C:\Users\<YourUsername>\AsciiArtOutput
+"C:\Users\YourUsername\figlet-output"
 
 On Linux/macOS, it’ll be saved in:
-/home/<YourUsername>/AsciiArtOutput
+"/home/YourUsername/figlet-output"
 
 ## 📜 License
 This project is licensed under the MIT License — feel free to use and modify it.
