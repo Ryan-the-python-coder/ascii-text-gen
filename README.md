@@ -5,6 +5,29 @@ Easily save your creations to a file — they’re automatically stored in your 
 
 ---
 
+## Example Run
+```
+Text to create: hello
+Are you sure you want to input this text? (y/n?): y
+
+
+ #     # ####### #       #       #######
+ #     # #       #       #       #     #
+ ####### ####    #       #       #     #
+ #     # #       #       #       #     #
+ #     # ####### ####### ####### #######
+
+
+Would you like to save this to a text file? (y/n?): y
+Filename (without folder path): hello.txt
+Are you sure you want 'hello.txt' as your filename? (y/n?): y
+Written to C:\Users\username\pyfiglet-output\hello.txt
+Would you like to exit? (y/n?): y
+Exiting...
+```
+
+---
+
 ## ✨ Features
 
 - 🖋 **Random font every time** — never boring!
